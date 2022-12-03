@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/SHUBHRA9" target="blank">
 SHUBHRA</a></h1>
-<h3 align="center">A Passionate Software Developer from Chhattisgar, India &#127470;&#127475</h3>
+<h3 align="center">A Passionate Software Developer from Chhattisgarh, India &#127470;&#127475</h3>
 
 
 
