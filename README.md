@@ -19,7 +19,7 @@ SHUBHRA</a></h1>
 
 - 💬 Ask me about Software Development and Database
 
-- 📫 How to reach me shubhrabhattacharya92@gmail.com or https://www.linkedin.com/in/shubhra-bhattacharya-850746155
+- 📫 How to reach me shubhrabhattacharya92@gmail.com or https://www.linkedin.com/in/shubhra09/
 
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
